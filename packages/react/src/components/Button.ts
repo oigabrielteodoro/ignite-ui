@@ -92,3 +92,5 @@ export const Button = styled('button', {
 export type ButtonProps = {
   as?: ElementType
 } & ComponentProps<typeof Button>
+
+Button.displayName = 'Button'
