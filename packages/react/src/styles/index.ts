@@ -8,7 +8,7 @@ import {
   space,
 } from '@oigabrielteodoro-ignite-ui/tokens'
 
-import { createStitches, defaultThemeMap } from '@stitches/react'
+import { defaultThemeMap, createStitches } from '@stitches/react'
 
 export const {
   styled,
