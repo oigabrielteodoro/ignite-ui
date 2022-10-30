@@ -11,3 +11,5 @@ export const Box = styled('div', {
 export type BoxProps = {
   as?: ElementType
 } & ComponentProps<typeof Box>
+
+Box.displayName = 'Box'
