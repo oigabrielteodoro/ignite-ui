@@ -9,5 +9,8 @@
   },
   "devDependencies": {
     "turbo": "^1.6.2"
+  },
+  "dependencies": {
+    "@radix-ui/react-checkbox": "^1.0.1"
   }
 }
