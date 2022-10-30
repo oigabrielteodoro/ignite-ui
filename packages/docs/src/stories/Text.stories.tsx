@@ -7,6 +7,7 @@ export default {
   args: {
     children: 'Lorem Ipsum dolor sit amet, consectetur adipiscing elit',
     size: 'md',
+    variant: 'primary',
   },
   argTypes: {
     size: {
@@ -25,6 +26,12 @@ export default {
         '8xl',
         '9xl',
       ],
+      control: {
+        type: 'inline-radio',
+      },
+    },
+    variant: {
+      options: ['primary', 'secondary'],
       control: {
         type: 'inline-radio',
       },
