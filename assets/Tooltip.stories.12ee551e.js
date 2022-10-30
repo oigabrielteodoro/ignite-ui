@@ -1,0 +1,2 @@
+import{e as r,T as e,a as i}from"./index.088aa393.js";import{j as o,a as s}from"./jsx-runtime.748a2bfb.js";import"./index.5baad969.js";import"./iframe.b9998176.js";import"./index.29cdbbfd.js";const d={title:"Surfaces/Tooltip",component:r.Content,args:{children:o(e,{children:"Tooltip message"})},decorators:[t=>o(r.Provider,{children:s(r.Root,{children:[o(r.Trigger,{asChild:!0,children:o(i,{children:"Hover me"})}),t()]})})]},p={},h=["Primary"];export{p as Primary,h as __namedExportsOrder,d as default};
+//# sourceMappingURL=Tooltip.stories.12ee551e.js.map

@@ -1,0 +1,2 @@
+import{A as t}from"./index.088aa393.js";import"./index.5baad969.js";import"./iframe.b9998176.js";import"./index.29cdbbfd.js";import"./jsx-runtime.748a2bfb.js";const e={title:"Data display/Avatar",component:t,args:{src:"https://github.com/oigabrielteodoro.png",alt:"Gabriel Teodoro"},argTypes:{src:{control:{type:"text"}}}},p={},c={args:{src:void 0}},l=["Primary","WithFallback"];export{p as Primary,c as WithFallback,l as __namedExportsOrder,e as default};
+//# sourceMappingURL=Avatar.stories.f7c49e1f.js.map
