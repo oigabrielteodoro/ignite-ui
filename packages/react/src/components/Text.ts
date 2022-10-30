@@ -5,9 +5,16 @@ export const Text = styled('p', {
   fontFamily: '$default',
   lineHeight: '$base',
   margin: 0,
-  color: '$gray100',
 
   variants: {
+    variant: {
+      primary: {
+        color: '$gray100',
+      },
+      secondary: {
+        color: '$gray200',
+      },
+    },
     size: {
       xxs: { fontSize: '$xxs' },
       xs: { fontSize: '$xs' },
@@ -27,6 +34,7 @@ export const Text = styled('p', {
 
   defaultVariants: {
     size: 'md',
+    variant: 'primary',
   },
 })
 
