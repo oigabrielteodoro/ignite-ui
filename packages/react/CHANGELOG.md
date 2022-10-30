@@ -1,6 +1,12 @@
 # @oigabrielteodoro-ignite-ui/react
 
-## 3.0.0
+## 4.0.0
+
+### Major Changes
+
+- Add Tooltip component
+
+## 3.1.0
 
 ### Major Changes
 
